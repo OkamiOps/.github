@@ -4,7 +4,7 @@
 
 *Inovação tecnológica em IA para pequenas e médias empresas.*
 
-[Site oficial](https://okamiops.com) · [Repositório principal](https://github.com/OkamiOps/okamiops)
+[Site oficial](https://okamiops.com)
 
 </div>
 
@@ -40,12 +40,13 @@ Construímos soluções com base técnica forte, segurança desde a origem e arq
 - *Minerva* — Linear, status e checklist
 - *Zelda* — desenvolvimento, AppSec, build e deploy
 
-## Presença pública
+## Como a Okami trabalha
 
-- [okamiops](https://github.com/OkamiOps/okamiops)
-- [okami-theastride](https://github.com/OkamiOps/okami-theastride)
-- [diana-overview](https://github.com/OkamiOps/diana-overview)
-- [`.github`](https://github.com/OkamiOps/.github)
+- usamos IA todos os dias
+- trabalhamos com tecnologias atuais
+- pensamos com visão de produto, custo e segurança
+- criamos experiências que não aprisionam o cliente em um único fornecedor
+- construímos com clareza, estética e controle
 
 ## Princípios
 
