@@ -2,29 +2,33 @@
 
 # OkamiOps
 
-*Inovação tecnológica com IA acessível para pequenas e médias empresas.*
+*Inovação tecnológica em IA para pequenas e médias empresas.*
 
-[Site oficial](https://okamiops.com) · [OkamiOps](https://github.com/OkamiOps/okamiops)
+[Site oficial](https://okamiops.com) · [Repositório principal](https://github.com/OkamiOps/okamiops)
 
 </div>
 
+## Nossa tese
+
+A Okami existe para levar *IA integrada* a PMEs sem transformar custo, dependência ou complexidade em barreira.
+
+Construímos soluções com base técnica forte, segurança desde a origem e arquitetura aberta — para que cada negócio possa escolher o melhor modelo, o melhor provedor e o melhor caminho sem ficar preso a um único fornecedor.
+
 ## O que fazemos
 
-Criamos soluções com *IA integrada* para PMEs sem transformar custo em bloqueio.
+- IA no dia a dia, aplicada de verdade
+- segurança e compliance como padrão, não como adorno
+- gateways e orquestração multi-modelo para evitar lock-in
+- produtos pensados para custo previsível e escala saudável
+- experiências que juntam clareza, estética e execução
 
-- IA no dia a dia, com uso real e não só discurso bonito
-- segurança e compliance desde a base
-- gateways e arquitetura multi-modelo para evitar lock-in de fornecedor
-- produtos que podem escolher o melhor modelo para cada negócio
-- execução pragmática, técnica e sustentável
-
-## Nosso stack
+## Stack e execução
 
 - *Frontend:* React
-- *Backend / plataforma:* C# e Python
-- *Automação:* multiagentes, integrações e fluxos operacionais
-- *Segurança:* AppSec, governança e controle
-- *Arquitetura:* gateways, abstração de modelo e flexibilidade de provedor
+- *Backend / automação:* C# e Python
+- *Arquitetura:* gateways, integrações e sistemas multiagentes
+- *Segurança:* AppSec, governança e controles práticos
+- *Operação:* IA, produto e engenharia trabalhando juntos
 
 ## Staff
 
@@ -36,20 +40,19 @@ Criamos soluções com *IA integrada* para PMEs sem transformar custo em bloquei
 - *Minerva* — Linear, status e checklist
 - *Zelda* — desenvolvimento, AppSec, build e deploy
 
-## Como a Okami trabalha
+## Presença pública
 
-- usamos IA todos os dias
-- trabalhamos com tecnologias atuais
-- pensamos com visão de produto, custo e segurança
-- criamos experiências que não aprisionam o cliente em um único fornecedor
-- construímos com clareza, estética e controle
+- [okamiops](https://github.com/OkamiOps/okamiops)
+- [okami-theastride](https://github.com/OkamiOps/okami-theastride)
+- [diana-overview](https://github.com/OkamiOps/diana-overview)
+- [`.github`](https://github.com/OkamiOps/.github)
 
 ## Princípios
 
-- *inteligência útil*
-- *custo sob controle*
-- *segurança por padrão*
-- *compliance sem teatro*
-- *elegância sem excesso*
+- tecnologia útil acima de buzzword
+- custo sob controle
+- segurança sem teatro
+- compliance com maturidade
+- liberdade de escolha acima de lock-in
 
-> *OkamiOps: IA séria, técnica forte e liberdade de escolha.*
+> *Séria, elegante e construída para durar.*
