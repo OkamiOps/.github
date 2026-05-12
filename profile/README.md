@@ -8,19 +8,23 @@
 
 </div>
 
-## Nossa tese
+---
+
+## A nossa tese
 
 A Okami existe para levar *IA integrada* a PMEs sem transformar custo, dependência ou complexidade em barreira.
 
-Construímos soluções com base técnica forte, segurança desde a origem e arquitetura aberta — para que cada negócio possa escolher o melhor modelo, o melhor provedor e o melhor caminho sem ficar preso a um único fornecedor.
+Entregamos base técnica forte, segurança desde a origem e arquitetura aberta para que cada negócio possa escolher o melhor modelo, o melhor provedor e o melhor caminho — sem ficar preso a um único fornecedor.
+
+> *Tecnologia séria. IA útil. Liberdade de escolha.*
 
 ## O que fazemos
 
 - IA no dia a dia, aplicada de verdade
-- segurança e compliance como padrão, não como adorno
+- segurança e compliance como padrão
 - gateways e orquestração multi-modelo para evitar lock-in
-- produtos pensados para custo previsível e escala saudável
-- experiências que juntam clareza, estética e execução
+- produtos com custo previsível e escala saudável
+- experiências claras, elegantes e executáveis
 
 ## Stack e execução
 
@@ -45,7 +49,7 @@ Construímos soluções com base técnica forte, segurança desde a origem e arq
 - usamos IA todos os dias
 - trabalhamos com tecnologias atuais
 - pensamos com visão de produto, custo e segurança
-- criamos experiências que não aprisionam o cliente em um único fornecedor
+- criamos soluções que não aprisionam o cliente
 - construímos com clareza, estética e controle
 
 ## Princípios
@@ -56,4 +60,10 @@ Construímos soluções com base técnica forte, segurança desde a origem e arq
 - compliance com maturidade
 - liberdade de escolha acima de lock-in
 
-> *Séria, elegante e construída para durar.*
+---
+
+<div align="center">
+
+*OkamiOps — IA séria, presença limpa e execução que dura.*
+
+</div>
