@@ -1,72 +1,134 @@
 <div align="center">
 
-# ✦ OkamiOps ✦
+<img src="https://raw.githubusercontent.com/OkamiOps/.github/main/profile/assets/okami-github-banner.svg" alt="OkamiOps — AI sovereignty, AppSec and DevSecOps" width="100%" />
 
-**AI sovereignty, AppSec and DevSecOps for small and medium-sized companies.**
+<br />
 
-OkamiOps is OKAMI's engineering home on GitHub.
+<p align="center">
+  <a href="https://okamiops.com"><b>Website</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://okamiops.com"><b>AI, AppSec & DevSecOps</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <b>São Paulo · Munich</b>
+</p>
 
-[🌐 okamiops.com](https://okamiops.com)
+<br />
+<br />
+
+<img alt="AI sovereignty" src="https://img.shields.io/badge/AI%20Sovereignty-7C3AED?style=for-the-badge" />
+<img alt="AppSec" src="https://img.shields.io/badge/AppSec-111827?style=for-the-badge" />
+<img alt="DevSecOps" src="https://img.shields.io/badge/DevSecOps-0F766E?style=for-the-badge" />
+<img alt="Multi-LLM" src="https://img.shields.io/badge/Multi--LLM%20Architecture-312E81?style=for-the-badge" />
 
 </div>
 
-<p align="center">
-  <img alt="AI sovereignty" src="https://img.shields.io/badge/AI%20Sovereignty-7C3AED?style=for-the-badge" />
-  <img alt="AppSec and DevSecOps" src="https://img.shields.io/badge/AppSec%20%26%20DevSecOps-111827?style=for-the-badge" />
-  <img alt="Multi-LLM gateway" src="https://img.shields.io/badge/Multi--LLM%20Gateway-0F766E?style=for-the-badge" />
-</p>
-
 ---
 
-## What we build
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h2>What Okami builds</h2>
+      <p>
+        Okami helps small and medium-sized companies adopt AI without letting cost,
+        security, compliance or provider dependency become the next operational mess.
+      </p>
+      <p>
+        We design and ship practical AI systems: multi-model gateways, secure workflows,
+        internal tools, AppSec automation and DevSecOps foundations that can be audited,
+        maintained and changed after launch.
+      </p>
+      <blockquote>
+        Useful AI. Security by design. Freedom to choose.
+      </blockquote>
+    </td>
+    <td width="42%" valign="top">
 
-Okami helps teams adopt AI without turning cost, security, compliance or vendor lock-in into the next operational problem.
+```yaml
+okami:
+  posture: "AI sovereignty"
+  security: "AppSec + DevSecOps"
+  architecture: "multi-LLM, provider-flexible"
+  delivery: "PoC → metrics → production"
+  evidence: "logs, tests, evals, rollback"
+  regions: ["São Paulo", "Munich"]
+```
 
-We design and ship practical systems: multi-model gateways, secure AI workflows, internal tools, AppSec automation and DevSecOps foundations that can be audited, maintained and changed.
+  </td>
+  </tr>
+</table>
 
-> Useful AI. Security by design. Freedom to choose.
+## Build surface
 
-## Focus areas
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ AI integration</h3>
+      <p>Assistants, workflows and product features connected to real business processes — not demo theater.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◇ Multi-LLM architecture</h3>
+      <p>Routing, evaluation, fallback and cost control across commercial APIs, open-source models and self-hosted deployments.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◆ AppSec & DevSecOps</h3>
+      <p>Threat modeling, secure SDLC, CI/CD gates, dependency hygiene and controls that live close to the code.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⬡ Compliance readiness</h3>
+      <p>LGPD, GDPR, ISO 27001, OWASP SAMM/ASVS and audit evidence built as an operating habit, not paperwork theater.</p>
+    </td>
+  </tr>
+</table>
 
-- **AI integration** — assistants, workflows and products connected to real business processes.
-- **Multi-LLM architecture** — routing, evaluation and cost control across providers and self-hosted models.
-- **AppSec & DevSecOps** — threat modeling, secure SDLC, CI/CD gates, evidence and controls as code.
-- **Compliance readiness** — LGPD, GDPR, ISO 27001, OWASP SAMM/ASVS and practical audit evidence.
-- **AI-assisted operations** — controlled workflows with permissions, logs, escalation paths and human oversight.
+## How we ship
 
-## How we work
+<table>
+  <tr>
+    <td align="center" width="20%"><b>01</b><br />Map the risk</td>
+    <td align="center" width="20%"><b>02</b><br />Choose the architecture</td>
+    <td align="center" width="20%"><b>03</b><br />Run a controlled PoC</td>
+    <td align="center" width="20%"><b>04</b><br />Move to production</td>
+    <td align="center" width="20%"><b>05</b><br />Keep evaluating</td>
+  </tr>
+</table>
 
-1. **Map the problem** — business goal, constraints, risk and success criteria.
-2. **Choose the right architecture** — commercial APIs, open-source models or self-hosted deployments when they actually make sense.
-3. **Ship a controlled PoC** — real metrics for quality, cost, latency and security.
-4. **Move to production** — monitoring, rollback, documentation and operational ownership.
-5. **Keep improving** — model evaluation, cost review, security checks and compliance evidence.
+<details>
+  <summary><b>What “controlled PoC” means at Okami</b></summary>
+  <br />
+
+A PoC is not a pretty prototype with no accountability. We expect real inputs, measurable quality, visible cost, latency numbers, security boundaries, fallback behavior and a clear answer to: should this go to production, change shape or die early?
+
+</details>
 
 ## Technical posture
 
 <table>
   <tr>
-    <td><b>AI</b><br>LLM gateways · evals · agents · RAG · automation</td>
-    <td><b>Engineering</b><br>TypeScript · React · Python · C# · APIs</td>
-    <td><b>Security</b><br>AppSec · DevSecOps · threat modeling · secure SDLC</td>
-    <td><b>Operations</b><br>Cloud · self-hosted · observability · cost control</td>
+    <td><b>AI</b><br />LLM gateways · evals · agents · RAG · automation</td>
+    <td><b>Engineering</b><br />TypeScript · React · Python · C# · APIs</td>
+    <td><b>Security</b><br />AppSec · DevSecOps · threat modeling · secure SDLC</td>
+    <td><b>Operations</b><br />Cloud · self-hosted · observability · cost control</td>
   </tr>
 </table>
 
-We do not sell a single stack. We choose what fits the risk, budget, data posture and delivery target.
-
 ## Principles
 
-- Useful technology beats hype.
-- Security belongs in the architecture, not in a slide deck.
-- Compliance should produce evidence, not paperwork.
-- Vendor independence matters.
-- Cost must be visible before scale.
-- The system should remain understandable after launch.
-
-## Where we operate
-
-São Paulo · Munich — building for teams that need serious AI, practical security and clean execution.
+<table>
+  <tr>
+    <td>Useful technology beats hype.</td>
+    <td>Security belongs in the architecture.</td>
+  </tr>
+  <tr>
+    <td>Compliance should produce evidence.</td>
+    <td>Vendor independence matters.</td>
+  </tr>
+  <tr>
+    <td>Cost must be visible before scale.</td>
+    <td>The system should remain understandable after launch.</td>
+  </tr>
+</table>
 
 ---
 
