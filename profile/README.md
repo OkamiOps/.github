@@ -83,16 +83,7 @@ Production-ready means the system has boundaries, monitoring, rollback, ownershi
 
 ## Technical posture
 
-```mermaid
-flowchart LR
-    A[Business problem] --> B[Risk & data boundaries]
-    B --> C[AI architecture]
-    C --> D[Secure workflow]
-    D --> E[Evaluation & CI/CD gates]
-    E --> F[Production operations]
-    F --> G[Evidence & continuous improvement]
-    G --> C
-```
+<img src="https://raw.githubusercontent.com/OkamiOps/.github/main/profile/assets/okami-technical-posture.png" alt="Okami technical posture — business problem, risk boundaries, AI architecture, secure workflow, evaluation gates, production operations and evidence loop" width="100%" />
 
 ```yaml
 okami:
