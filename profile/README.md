@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/OkamiOps/.github/main/profile/assets/okami-github-banner.svg" alt="OkamiOps — AI sovereignty, AppSec and DevSecOps" width="100%" />
-
-<br />
+<img src="https://raw.githubusercontent.com/OkamiOps/.github/main/profile/assets/okami-github-cover.png" alt="OkamiOps — AI sovereignty, AppSec and DevSecOps" width="100%" />
 
 <p align="center">
   <a href="https://okamiops.com"><b>Website</b></a>
@@ -11,9 +9,6 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <b>São Paulo · Munich</b>
 </p>
-
-<br />
-<br />
 
 <img alt="AI sovereignty" src="https://img.shields.io/badge/AI%20Sovereignty-7C3AED?style=for-the-badge" />
 <img alt="AppSec" src="https://img.shields.io/badge/AppSec-111827?style=for-the-badge" />
@@ -27,15 +22,12 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h2>What Okami builds</h2>
+      <h2>What Okami is</h2>
       <p>
-        Okami helps small and medium-sized companies adopt AI without letting cost,
-        security, compliance or provider dependency become the next operational mess.
+        Okami builds AI, AppSec and DevSecOps systems for small and medium-sized companies that need modern automation without losing control of cost, security, data or provider choice.
       </p>
       <p>
-        We design and ship practical AI systems: multi-model gateways, secure workflows,
-        internal tools, AppSec automation and DevSecOps foundations that can be audited,
-        maintained and changed after launch.
+        We work where AI adoption meets real production risk: model routing, secure workflows, internal tools, compliance evidence, CI/CD gates, observability and operating discipline.
       </p>
       <blockquote>
         Useful AI. Security by design. Freedom to choose.
@@ -57,28 +49,70 @@ okami:
   </tr>
 </table>
 
-## Build surface
+## What we do
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>◈ AI integration</h3>
-      <p>Assistants, workflows and product features connected to real business processes — not demo theater.</p>
+      <h3>◈ AI strategy & architecture</h3>
+      <p>We turn AI ideas into technical plans with scope, risks, provider choices, data posture and a path to production.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>◇ Multi-LLM architecture</h3>
-      <p>Routing, evaluation, fallback and cost control across commercial APIs, open-source models and self-hosted deployments.</p>
+      <h3>◇ Multi-LLM gateways</h3>
+      <p>Routing, fallback, evaluation and cost control across commercial APIs, open-source models and self-hosted deployments.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>◆ AppSec & DevSecOps</h3>
-      <p>Threat modeling, secure SDLC, CI/CD gates, dependency hygiene and controls that live close to the code.</p>
+      <h3>◆ Secure AI workflows</h3>
+      <p>Assistants, automations and internal tools with permissions, logs, escalation paths and human oversight.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⬡ Compliance readiness</h3>
+      <h3>⬡ AppSec & DevSecOps</h3>
+      <p>Threat modeling, secure SDLC, CI/CD gates, dependency hygiene and security controls that live close to the code.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>▣ Compliance engineering</h3>
       <p>LGPD, GDPR, ISO 27001, OWASP SAMM/ASVS and audit evidence built as an operating habit, not paperwork theater.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3>▧ Team enablement</h3>
+      <p>Practical training, playbooks and implementation support so teams can maintain the system after the first launch.</p>
+    </td>
+  </tr>
+</table>
+
+## Problems we usually solve
+
+<table>
+  <tr>
+    <td>AI prototypes that never survive production.</td>
+    <td>Token spend and model choice with no visibility.</td>
+  </tr>
+  <tr>
+    <td>Provider lock-in risk and weak fallback strategy.</td>
+    <td>Security reviews arriving too late in the delivery cycle.</td>
+  </tr>
+  <tr>
+    <td>Compliance requirements trapped in spreadsheets.</td>
+    <td>Internal automation without permissions, logs or rollback.</td>
+  </tr>
+</table>
+
+## What clients get
+
+<table>
+  <tr>
+    <td><b>Architecture</b><br />Decision records, diagrams, provider strategy and data boundaries.</td>
+    <td><b>Working PoC</b><br />Real inputs, measurable output quality, cost and latency numbers.</td>
+    <td><b>Security model</b><br />Threat model, controls, CI/CD gates and dependency posture.</td>
+  </tr>
+  <tr>
+    <td><b>Evaluation</b><br />Model comparison, regression checks and practical acceptance criteria.</td>
+    <td><b>Operations</b><br />Runbooks, observability, fallback behavior, rollback and ownership.</td>
+    <td><b>Evidence</b><br />Logs, test output, audit artifacts and compliance-ready documentation.</td>
   </tr>
 </table>
 
@@ -110,6 +144,28 @@ A PoC is not a pretty prototype with no accountability. We expect real inputs, m
     <td><b>Engineering</b><br />TypeScript · React · Python · C# · APIs</td>
     <td><b>Security</b><br />AppSec · DevSecOps · threat modeling · secure SDLC</td>
     <td><b>Operations</b><br />Cloud · self-hosted · observability · cost control</td>
+  </tr>
+</table>
+
+## Standards and frameworks we work with
+
+<p>
+  <code>LGPD</code>
+  <code>GDPR</code>
+  <code>ISO 27001</code>
+  <code>OWASP SAMM</code>
+  <code>OWASP ASVS</code>
+  <code>NIST</code>
+  <code>PCI-DSS</code>
+</p>
+
+## Public work
+
+<table>
+  <tr>
+    <td><a href="https://github.com/OkamiOps/okami-SAMM"><b>okami-SAMM</b></a><br />Security maturity and AppSec-oriented public work.</td>
+    <td><a href="https://github.com/OkamiOps/Okami-Monitor"><b>Okami-Monitor</b></a><br />Monitoring and operational visibility experiments.</td>
+    <td><a href="https://github.com/OkamiOps/.github"><b>.github</b></a><br />Public organization profile and GitHub surface.</td>
   </tr>
 </table>
 
