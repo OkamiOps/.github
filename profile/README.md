@@ -2,77 +2,74 @@
 
 # ✦ OkamiOps ✦
 
-*Inovação tecnológica em IA para pequenas e médias empresas.*
+**AI sovereignty, AppSec and DevSecOps for small and medium-sized companies.**
 
-[🌐 Site oficial](https://okamiops.com)
+OkamiOps is OKAMI's engineering home on GitHub.
+
+[🌐 okamiops.com](https://okamiops.com)
 
 </div>
 
 <p align="center">
-  <img alt="IA útil" src="https://img.shields.io/badge/IA%20%C3%9Atil-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="Segurança" src="https://img.shields.io/badge/Seguran%C3%A7a%20%26%20Compliance-111827?style=for-the-badge&logo=verizon&logoColor=white" />
-  <img alt="Multiagentes" src="https://img.shields.io/badge/Multiagentes-0F766E?style=for-the-badge&logo=stackshare&logoColor=white" />
+  <img alt="AI sovereignty" src="https://img.shields.io/badge/AI%20Sovereignty-7C3AED?style=for-the-badge" />
+  <img alt="AppSec and DevSecOps" src="https://img.shields.io/badge/AppSec%20%26%20DevSecOps-111827?style=for-the-badge" />
+  <img alt="Multi-LLM gateway" src="https://img.shields.io/badge/Multi--LLM%20Gateway-0F766E?style=for-the-badge" />
 </p>
 
 ---
 
-## ✨ A nossa tese
+## What we build
 
-A Okami existe para levar *IA integrada* a PMEs sem transformar custo, dependência ou complexidade em barreira.
+Okami helps teams adopt AI without turning cost, security, compliance or vendor lock-in into the next operational problem.
 
-Entregamos base técnica forte, segurança desde a origem e arquitetura aberta para que cada negócio possa escolher o melhor modelo, o melhor provedor e o melhor caminho — sem ficar preso a um único fornecedor.
+We design and ship practical systems: multi-model gateways, secure AI workflows, internal tools, AppSec automation and DevSecOps foundations that can be audited, maintained and changed.
 
-> *Tecnologia séria. IA útil. Liberdade de escolha.*
+> Useful AI. Security by design. Freedom to choose.
 
-## 💎 O que fazemos
+## Focus areas
 
-- 🟣 IA no dia a dia, aplicada de verdade
-- 🟢 segurança e compliance como padrão
-- 🔷 gateways e orquestração multi-modelo para evitar lock-in
-- 🟠 produtos com custo previsível e escala saudável
-- ⚫ experiências claras, elegantes e executáveis
+- **AI integration** — assistants, workflows and products connected to real business processes.
+- **Multi-LLM architecture** — routing, evaluation and cost control across providers and self-hosted models.
+- **AppSec & DevSecOps** — threat modeling, secure SDLC, CI/CD gates, evidence and controls as code.
+- **Compliance readiness** — LGPD, GDPR, ISO 27001, OWASP SAMM/ASVS and practical audit evidence.
+- **AI-assisted operations** — controlled workflows with permissions, logs, escalation paths and human oversight.
 
-## 🧩 Stack e execução
+## How we work
+
+1. **Map the problem** — business goal, constraints, risk and success criteria.
+2. **Choose the right architecture** — commercial APIs, open-source models or self-hosted deployments when they actually make sense.
+3. **Ship a controlled PoC** — real metrics for quality, cost, latency and security.
+4. **Move to production** — monitoring, rollback, documentation and operational ownership.
+5. **Keep improving** — model evaluation, cost review, security checks and compliance evidence.
+
+## Technical posture
 
 <table>
   <tr>
-    <td><b>Frontend</b><br>React</td>
-    <td><b>Backend / automação</b><br>C# · Python</td>
-    <td><b>Arquitetura</b><br>Gateways · multiagentes</td>
-    <td><b>Segurança</b><br>AppSec · governança · controles práticos</td>
+    <td><b>AI</b><br>LLM gateways · evals · agents · RAG · automation</td>
+    <td><b>Engineering</b><br>TypeScript · React · Python · C# · APIs</td>
+    <td><b>Security</b><br>AppSec · DevSecOps · threat modeling · secure SDLC</td>
+    <td><b>Operations</b><br>Cloud · self-hosted · observability · cost control</td>
   </tr>
 </table>
 
-## 🌙 Staff
+We do not sell a single stack. We choose what fits the risk, budget, data posture and delivery target.
 
-- 🕴️ *Marcos* — CEO / Fundador
-- 🧭 *Astride* — coordenação e decisão de fluxo
-- 🕯️ *Morgana* — documentação, memória e governança
-- 🎨 *Diana* — UX/UI e experiência visual
-- 📚 *Perséfone* — research, produto, narrativa e critérios de aceite
-- ⚙️ *Minerva* — Linear, status e checklist
-- 🛠️ *Zelda* — desenvolvimento, AppSec, build e deploy
+## Principles
 
-## 🪄 Como a Okami trabalha
+- Useful technology beats hype.
+- Security belongs in the architecture, not in a slide deck.
+- Compliance should produce evidence, not paperwork.
+- Vendor independence matters.
+- Cost must be visible before scale.
+- The system should remain understandable after launch.
 
-- usamos IA todos os dias
-- trabalhamos com tecnologias atuais
-- pensamos com visão de produto, custo e segurança
-- criamos soluções que não aprisionam o cliente
-- construímos com clareza, estética e controle
+## Where we operate
 
-## 🕸️ Princípios
-
-- tecnologia útil acima de buzzword
-- custo sob controle
-- segurança sem teatro
-- compliance com maturidade
-- liberdade de escolha acima de lock-in
+São Paulo · Munich — building for teams that need serious AI, practical security and clean execution.
 
 ---
 
 <div align="center">
-
-<sub>OkamiOps — IA séria, presença limpa e execução que dura.</sub>
-
+  <sub>OkamiOps — serious AI systems, secure execution and freedom to choose providers.</sub>
 </div>
