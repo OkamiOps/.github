@@ -49,24 +49,23 @@ Some projects are open source; others are public work with their own licensing t
 
 ## Explore the public work
 
-<img src="assets/okami-open-source-map.svg" alt="Okami public work: build and operate AI, secure delivery, and run the business" width="100%" />
+<img src="assets/okami-open-source-map.svg" alt="Okami public work: build and operate AI, secure delivery, and AI operations" width="100%" />
 
 ### Build and operate AI
 
-- **[`Okami-Agent`](https://github.com/OkamiOps/Okami-Agent)** — A sovereign AI coding agent with provider-aware execution, persistent capabilities and terminal or Telegram operation.
-- **[`OkamiCode`](https://github.com/OkamiOps/OkamiCode)** — A local-first desktop cockpit for native AI coding CLIs, communication, planning, usage intelligence and memory.
-- **[`OkTally`](https://github.com/OkamiOps/OkTally)** — A macOS menu-bar tool for tracking AI coding subscription quotas before they become a surprise.
+- **[Okami Agent](https://okamiagent.com/)** — A sovereign AI coding agent with provider-aware execution, persistent capabilities and terminal or Telegram operation. [Source](https://github.com/OkamiOps/Okami-Agent)
+- **[OkamiCode](https://code.okamiops.com/)** — A local-first desktop cockpit for native AI coding CLIs, communication, planning, usage intelligence and memory. [Source](https://github.com/OkamiOps/OkamiCode)
 
 ### Secure delivery
 
-- **[`okami-SAMM`](https://github.com/OkamiOps/okami-SAMM)** — An OWASP SAMM v2 assessment workspace with scorecard, radar, prioritized roadmap and board-ready PDF report.
-- **[`secops-baseline`](https://github.com/OkamiOps/secops-baseline)** — A practical CI/CD baseline for SCA, secrets, containers, IaC and auditable evidence.
-- **[`okami-sentinel`](https://github.com/OkamiOps/okami-sentinel)** — A local-first workbench for running, comparing, reporting and gating OpenAI Codex Security scans.
+- **[Okami Sentinel](https://sentinel.okamiops.com/)** — A local-first workbench for running, comparing, reporting and gating OpenAI Codex Security scans. [Source](https://github.com/OkamiOps/okami-sentinel)
+- **[Okami Maturity](https://maturity.okamiops.com/)** — An OWASP SAMM v2 assessment workspace with scorecard, radar, prioritized roadmap and board-ready PDF report. [Source](https://github.com/OkamiOps/okami-SAMM)
+- **[SecOps Baseline](https://okamiops.com/materiais/baseline-secops-ci-cd/)** — A practical CI/CD baseline for SCA, secrets, containers, IaC and auditable evidence. [Source](https://github.com/OkamiOps/secops-baseline)
 
-### Run the business
+### Observe and measure
 
-- **[`Okami-Monitor`](https://github.com/OkamiOps/Okami-Monitor)** — Mission control for multi-agent AI environments: usage, cost, sessions, logs and external runtimes in one cockpit.
-- **[`deskcomm-crm`](https://github.com/OkamiOps/deskcomm-crm)** — A self-hosted, open source AI sales OS with native agents, WhatsApp support and MCP-ready integrations.
+- **[Okami Monitor](https://os.okamiops.com/)** — Mission control for multi-agent AI environments: usage, cost, sessions, logs and external runtimes in one cockpit. [Source](https://github.com/OkamiOps/Okami-Monitor)
+- **[OkTally](https://okamiops.com/produtos/oktally/)** — A macOS menu-bar tool for tracking AI coding subscription quotas before they become a surprise. [Source](https://github.com/OkamiOps/OkTally)
 
 Each repository has its own license, deployment notes and maturity level. Browse the [full public portfolio](https://github.com/OkamiOps?tab=repositories).
 

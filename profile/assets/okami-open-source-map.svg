@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
   <title id="title">Okami open-source work</title>
-  <desc id="desc">A map of Okami public projects grouped into build and operate AI, secure delivery, and run the business.</desc>
+  <desc id="desc">A map of Okami public projects grouped into build and operate AI, secure delivery, and AI operations.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#090b14"/>
@@ -39,35 +39,36 @@
     <rect width="442" height="336" rx="22" fill="#101426" fill-opacity=".94" stroke="#8b5cf6" stroke-opacity=".82" stroke-width="2"/>
     <rect width="442" height="8" rx="4" fill="url(#purple)"/>
     <text x="32" y="64" fill="#e9d5ff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">BUILD &amp; OPERATE AI</text>
-    <text x="32" y="110" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Okami-Agent</text>
+    <text x="32" y="110" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Okami Agent</text>
     <text x="32" y="145" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20">Sovereign coding agent</text>
     <line x1="32" x2="410" y1="176" y2="176" stroke="#8b5cf6" stroke-opacity=".3"/>
     <text x="32" y="220" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">OkamiCode</text>
     <text x="32" y="255" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20">Local-first coding cockpit</text>
-    <text x="32" y="307" fill="#ddd6fe" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">OkTally</text>
+    <text x="32" y="307" fill="#ddd6fe" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Bring your own model</text>
   </g>
 
   <g transform="translate(580 274)">
     <rect width="442" height="336" rx="22" fill="#101426" fill-opacity=".94" stroke="#14b8a6" stroke-opacity=".82" stroke-width="2"/>
     <rect width="442" height="8" rx="4" fill="url(#teal)"/>
     <text x="32" y="64" fill="#99f6e4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">SECURE DELIVERY</text>
-    <text x="32" y="110" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">okami-SAMM</text>
-    <text x="32" y="145" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20">AppSec maturity assessment</text>
+    <text x="32" y="110" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Okami Sentinel</text>
+    <text x="32" y="145" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20">Local security scan workspace</text>
     <line x1="32" x2="410" y1="176" y2="176" stroke="#14b8a6" stroke-opacity=".3"/>
-    <text x="32" y="220" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">secops-baseline</text>
-    <text x="32" y="255" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20">CI/CD security baseline</text>
-    <text x="32" y="307" fill="#99f6e4" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">okami-sentinel</text>
+    <text x="32" y="220" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Okami Maturity</text>
+    <text x="32" y="255" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20">OWASP SAMM assessment</text>
+    <text x="32" y="307" fill="#99f6e4" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">SecOps Baseline</text>
   </g>
 
   <g transform="translate(1068 274)">
     <rect width="442" height="336" rx="22" fill="#101426" fill-opacity=".94" stroke="#f59e0b" stroke-opacity=".82" stroke-width="2"/>
     <rect width="442" height="8" rx="4" fill="url(#gold)"/>
-    <text x="32" y="64" fill="#fde68a" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">RUN THE BUSINESS</text>
-    <text x="32" y="110" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Okami-Monitor</text>
+    <text x="32" y="64" fill="#fde68a" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">OBSERVE &amp; MEASURE</text>
+    <text x="32" y="110" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Okami Monitor</text>
     <text x="32" y="145" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20">AI operations mission control</text>
     <line x1="32" x2="410" y1="176" y2="176" stroke="#f59e0b" stroke-opacity=".3"/>
-    <text x="32" y="220" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">deskcomm-crm</text>
-    <text x="32" y="255" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20">Open source AI sales OS</text>
+    <text x="32" y="220" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">OkTally</text>
+    <text x="32" y="255" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20">macOS AI quota tracking</text>
+    <text x="32" y="307" fill="#fde68a" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Usage before surprise</text>
   </g>
 
   <line x1="92" x2="1508" y1="670" y2="670" stroke="#cbd5e1" stroke-opacity=".2"/>
